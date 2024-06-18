@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I have developed BCF, the app for perfumers
-- 🌱 I’m currently learning Svelte
-- 👯 I’m looking to collaborate on any full-stack web project
+- 🌱 I’m currently learning TypeScript
+- 👯 I’m looking to collaborate on a full-stack web project
 - 💬 Ask me about perfumery, metal, and chemistry
 
 <!--
