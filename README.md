@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I have developed BCF, the app for perfumers
-- 🌱 I’m currently learning TypeScript
+- 🔭 I am working on Firelight and BCF
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on a full-stack web project
 - 💬 Ask me about perfumery, metal, and chemistry
 
