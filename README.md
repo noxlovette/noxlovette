@@ -1,3 +1,3 @@
 # Danila Volkov
 
-Moved to Codeberg
+Moved to Codeberg: https://codeberg.org/noxlovette
