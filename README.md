@@ -1,3 +1,1 @@
-# Danila Volkov
-
-Rust && Bun
+Moved to [GitLab](https://gitlab.com/noxlovette)
